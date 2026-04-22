@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
-    "version": "",
+    "ip": "druzbanI_ISAI_CPAI.aternos.me:",
+    "port": 53070,
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
@@ -66,11 +66,11 @@
   },
   "combat": {
     "attack-mobs": true,
-    "auto-eat": true
+    "auto-eat": false
   },
   "beds": {
-    "pick-up-day": false,
-    "place-night": false
+    "pick-up-day": true,
+    "place-night": true
   },
   "discord": {
     "enabled": false,
